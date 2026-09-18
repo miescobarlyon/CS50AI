@@ -16,8 +16,8 @@ This course explores the concepts and algorithms at the foundation of modern art
 
 | Project | Description | Concepts |
 |---------|-------------|----------|
-| [Degrees](degrees/) | Finds the shortest connection between any two actors via shared movies | BFS, graph search |
-| [Tic-Tac-Toe](tictactoe/) | An AI opponent that plays optimally and never loses | Minimax, adversarial search |
+| [Degrees](Project0/degrees/) | Finds the shortest connection between any two actors via shared movies | BFS, graph search |
+| [Tic-Tac-Toe](Project0/tictactoe/) | An AI opponent that plays optimally and never loses | Minimax, adversarial search |
 
 ### Week 1 — Knowledge
 
