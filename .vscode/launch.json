@@ -9,6 +9,15 @@
             "cwd": "${workspaceFolder}/Project0/tictactoe",
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "Debug Knights Puzzle",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Project1/knights/puzzle.py",
+            "cwd": "${workspaceFolder}/Project1/knights",
+            "console": "integratedTerminal",
+            "justMyCode": true
         }
     ]
 }

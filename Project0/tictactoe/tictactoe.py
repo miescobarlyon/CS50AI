@@ -85,7 +85,7 @@ def minimax(board):
 
 def minimax_recursive(board):
     """
-    Returns the optimal action for the current player on the board.
+    Returns the optimal action and its score for the current player on the board.
     """
 
     if terminal(board):
